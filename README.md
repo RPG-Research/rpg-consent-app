@@ -1,6 +1,8 @@
 # rpg-consent-app
 Role-Playing Game Consent App by Hawke Robinson et al.
 
+Official website: <a href="https://www.gameconsent.com">www.gameconsent.com</a>
+
 A web-based and mobile app for role-playing game masters to receive real-time anonymous feedback on the comfort level of their players.
 
 The players join a "room" created by the GM, and based on the GM's settings for feedback, can provide real-time feedback about their comfort with the content or any other issues during the game, the GM can setup the parameters of feedback.
