@@ -1,4 +1,4 @@
-# rpg-consent-app
+# Game Consent App
 Role-Playing Game Consent App by Hawke Robinson et al.
 
 Official website: <a href="https://www.gameconsent.com">www.gameconsent.com</a>
